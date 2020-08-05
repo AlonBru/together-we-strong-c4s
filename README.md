@@ -2,6 +2,7 @@ repository of good insights.
 try not to add content that is in the course main repository.
 tips and tricks will be more than great.
 have fun!
+<<<<<<< Updated upstream
 
 ## To contribute to the repo
 1. Clone the Repo to your Desktop
@@ -30,3 +31,6 @@ which are big lists of useful commands or tricks in many different topics
 * __Resources__
 
 This  is the section for different resources you can use while learning and working.
+=======
+adwad
+>>>>>>> Stashed changes
